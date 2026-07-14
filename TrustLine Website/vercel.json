@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/about", "destination": "/About.html" },
+    { "source": "/learning", "destination": "/Learning.html" },
+    { "source": "/policies", "destination": "/Policies.html" },
+    { "source": "/cyber-awareness", "destination": "/Cyber Awareness.html" },
+    { "source": "/cyber-awareness-quiz", "destination": "/Cyber Awareness Quiz.html" },
+    { "source": "/policy-quiz", "destination": "/Policy Quiz.html" },
+    { "source": "/iso27001", "destination": "/ISO27001.html" },
+    { "source": "/iso27001-quiz", "destination": "/ISO27001 Quiz.html" },
+    { "source": "/quick-tips", "destination": "/Quick tips.html" }
+  ]
+}
